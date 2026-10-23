@@ -2,7 +2,7 @@
   "login": "23gihy",
   "level": 2,
   "overall": "E",
-  "overallPercentile": 0.03287798706141267,
+  "overallPercentile": 0.06996632032290905,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 5,
+      "value": 7,
       "rank": "E",
-      "percentile": 0.11379142115753826
+      "percentile": 0.1434070496023075
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 1,
+      "value": 2,
       "rank": "E",
-      "percentile": 0.19027288417987814
+      "percentile": 0.35265963279786033
     },
     {
       "code": "LUK",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 5
+      "value": 7
     },
     {
       "id": "unbroken",
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "raider",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 2
+      "value": 4
     },
     {
       "id": "boss-slayer",
@@ -168,16 +168,21 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "collector",
       "tier": 0,
-      "value": 1
+      "value": 2
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-23",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-22",
         "cleared": 0,
@@ -262,12 +267,13 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 2,
+    "questsDone": 4,
     "bosses": [],
-    "escapes": 1,
+    "escapes": 2,
     "kinds": [
-      "contribute"
+      "contribute",
+      "average"
     ]
   },
-  "syncedAt": "2026-10-22T20:30:30.685Z"
+  "syncedAt": "2026-10-23T20:20:27.235Z"
 }
